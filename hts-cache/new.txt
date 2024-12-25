@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:59:09	90123/90123	---MCZ	200	added ('OK')	text/html	etag:%223924-1735000500;gz%22	https://manualdolucas.com.br/	C:/Meus%20Sites/Upsel%20pagina/manualdolucas.com.br/index.html	(from )
+22:59:09	69/69	---MCZ	200	added ('OK')	text/plain	etag:%223927-1735003425;gz%22	https://manualdolucas.com.br/robots.txt		(from )
